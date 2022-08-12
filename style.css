@@ -654,3 +654,6 @@ footer span a:hover{
     background: #55ACEE;
     color: white;
   }
+.linking {
+    color: red;
+}
